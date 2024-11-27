@@ -9,7 +9,7 @@ just save time for the people who don't want to rewrite everything.
 In your `wally.toml` put:
 
 ```toml
-    "FunctionLib" = "isophes/functionlib"
+    "FunctionLib" = "isophes/functionlib@0.1.0"
 ```
 
 ## Documentation
